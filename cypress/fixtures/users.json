@@ -1,0 +1,20 @@
+{
+  "registeredEmail":"cristianoronaldo@manchester.com",
+  "name": "Leo",
+  "email": "leomessi@manchester.com",
+  "title": "Mr",
+  "password": "password123",
+  "day": "24",
+  "month": "June",
+  "year": "1987",
+  "firstName": "Lionel",
+  "lastName": "Messi",
+  "company": "Inter Miami",
+  "address1": "1350 NW",
+  "address2": "55th St",
+  "country": "United States",
+  "state": "Florida",
+  "city": "Miami",
+  "zipCode": "FL 33309",
+  "phoneNumber": "+1 305 428 6011"
+}

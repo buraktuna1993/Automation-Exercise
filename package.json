@@ -1,0 +1,22 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "BurakTuna",
+  "main": "index.ts",
+  "scripts": {
+    "e2e:lint": "npm run lint",
+    "e2e:test": "npm start & cypress run",
+    "cy:open": "cypress open",
+    "cy:run" : "cypress run"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "@types/node": "^22.12.0",
+    "cypress": "^14.0.1",
+    "cypress-downloadfile": "^1.2.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
