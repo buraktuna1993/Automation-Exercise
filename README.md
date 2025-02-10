@@ -1,4 +1,5 @@
 Cypress TypeScript Automation Framework
+
 Welcome to my Cypress TypeScript automation framework for testing the Automation Exercise web application. This repository contains a basic framework built from scratch along with automated test scripts that cover key user journeys.
 
 Why Cypress & TypeScript?
